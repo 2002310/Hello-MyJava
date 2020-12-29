@@ -1,0 +1,10 @@
+package pgp;
+
+public class changj {
+    public static void main(String[] args) {
+        zhiw wand= new zhiw("Õ„∂π…‰ ÷", 5, 100);
+        jiangs teit = new jiangs("Ã˙Õ®Ω© ¨", 20, 100);
+        wand.put(teit);
+        teit.eat(wand);
+    }
+}
